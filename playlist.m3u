@@ -1,0 +1,155 @@
+#EXTM3U
+#EXTINF:-1 group-title="Canada",CA | CTV
+http://206.212.244.26/live/vasconeves/1742766045/40733.ts
+#EXTINF:-1 group-title="Canada",CA | CTV 2
+http://watch-myjokertv.xyz:8080/play/3wV_2hKH8dCc4-tosvoH14TJ-Aj78CYpcikPZdJJAW4/ts
+#EXTINF:-1 group-title="Canada",CA | CTV Sci Fi
+http://watch-myjokertv.xyz:8080/play/3wV_2hKH8dCc4-tosvoH15M3X9mbGVsMjJqIuYq82C4/ts
+#EXTINF:-1 group-title="Canada",CA | CTV Wild
+http://watch-myjokertv.xyz:8080/play/3wV_2hKH8dCc4-tosvoH11F1V_Yu-jCmobyP-1B9TqI/ts
+#EXTINF:-1 group-title="Canada",CA | CTV Nature
+http://206.212.244.26/live/vasconeves/1742766045/40726.ts
+#EXTINF:-1 group-title="Canada",CA | CTV Speed
+http://watch-myjokertv.xyz:8080/play/3wV_2hKH8dCc4-tosvoH19TuRj-MUW5RXNmUqPzo-Zs/ts
+#EXTINF:-1 group-title="Canada",CA | Global
+http://watch-myjokertv.xyz:8080/play/3wV_2hKH8dCc4-tosvoH1_7jN6DnGfn9kuZlTrd0K7E/ts
+#EXTINF:-1 group-title="Canada",CA | Showcase
+http://206.212.244.26/live/vasconeves/1742766045/40624.ts
+#EXTINF:-1 group-title="Canada",CA | Slice
+http://206.212.244.26/live/vasconeves/1742766045/40622.ts
+#EXTINF:-1 group-title="Canada",CA | History
+http://206.212.244.26/live/vasconeves/1742766045/40693.ts
+#EXTINF:-1 group-title="Canada",CA | YTV
+http://96.45.207.18:8881/channel/40452a09/index.m3u8?q=1735600584362
+#EXTINF:-1 group-title="Canada",CA | ICI RDI
+http://96.45.207.18:8881/channel/7a117d94/index.m3u8?q=1735600584362
+#EXTINF:-1 group-title="Canada",CA | TVA
+http://68.233.120.207:9981/stream/channelid/1523198423?profile=pass
+#EXTINF:-1 group-title="Canada",CA | Travel Escape
+http://206.212.244.26/live/vasconeves/1742766045/40580.ts
+#EXTINF:-1 group-title="Canada",CA | TSN 1
+http://fl5.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1 group-title="Canada",CA | TSN 2
+http://fl5.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 group-title="Canada",CA | TSN 3
+http://fl5.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 group-title="Canada",CA | TSN 4
+http://fl5.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1 group-title="Canada",CA | TSN 5
+http://fl5.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1 group-title="United Kingdom",UK | BBC One
+http://92.114.85.72:8000/play/a0mw
+#EXTINF:-1 group-title="United Kingdom",UK | BBC Two
+http://92.114.85.72:8000/play/a0mr
+#EXTINF:-1 group-title="United Kingdom",UK | BBC World News
+http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 group-title="United States",US | Showtime
+http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 group-title="United States",US | Cinemax
+http://fl5.moveonjoy.com/CINEMAX/index.m3u8
+#EXTINF:-1 group-title="United States",US | Cinemax Moremax
+http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+#EXTINF:-1 group-title="United States",US | Discovery Channel
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:-1 group-title="United States",US | Discovery Science
+http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
+#EXTINF:-1 group-title="United States",US | EPIX
+http://fl2.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 group-title="United States",US | EPIX 2
+http://fl2.moveonjoy.com/EPIX_2/index.m3u8
+#EXTINF:-1 group-title="United States",US | EPIX Drive-In
+http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1 group-title="United States",US | EPIX Hits
+http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
+#EXTINF:-1 group-title="United States",US | FX
+http://fl2.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 group-title="United States",US | FX Movie
+http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 group-title="United States",US | Starz
+http://fl2.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 group-title="United States",US | Starz Edge
+http://fl5.moveonjoy.com/STARZ_EDGE/index.m3u8
+#EXTINF:-1 group-title="United States",US | Starz Encore
+http://fl5.moveonjoy.com/STARZ_ENCORE/index.m3u8
+#EXTINF:-1 group-title="United States",US | Starz Encore Classic
+http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1 group-title="United States",US | NHL Network
+http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="United States",US | CBS Sports
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 group-title="United States",US | Golf Channel
+http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="United States",US | AMC Network
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="United States",US | HBO
+http://fl5.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 group-title="United States",US | HBO 2
+http://fl5.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 group-title="United States",US | Showtime
+http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 group-title="United States",US | Showtime 2
+http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 group-title="United States",US | Showtime Extreme
+http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 group-title="United States",US | Showtime Next
+http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 group-title="United States",US | DYI
+http://fl2.moveonjoy.com/DIY/index.m3u8
+#EXTINF:-1 group-title="United States",US | Investigation Discovery
+http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1 group-title="United States",US | Oxygen True Crime
+http://fl2.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1 group-title="United States",US | Motor Trend
+http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
+#EXTINF:-1 group-title="United States",US | Smithsonian Channel
+http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="United States",US | Motor Trend
+http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 group-title="United States",US | HGTV
+http://fl2.moveonjoy.com/HGTV/index.m3u8
+#EXTINF:-1 group-title="United States",US | National Geographic
+http://fl2.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 group-title="United States",US | CNN
+http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
+#EXTINF:-1 group-title="United States",US | News Nation
+http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
+#EXTINF:-1 group-title="United States",US | Bloomberg
+http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
+#EXTINF:-1 group-title="United States",US | Paramount Network
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 group-title="United States",US | Reelz
+http://fl2.moveonjoy.com/REELZ/index.m3u8
+#EXTINF:-1 group-title="United States",US | MTV
+https://fl2.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 group-title="United States",US | Tennis Channel
+http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="United States",US | Weather Network
+http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="United States",US | USA Network
+http://fl2.moveonjoy.com/USA_Network/index.m3u8
+#EXTINF:-1 group-title="United States",US | TruTV
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="United States",US | VH1
+http://fl2.moveonjoy.com/VH1/index.m3u8
+#EXTINF:-1 group-title="United States",US | WGN
+http://fl2.moveonjoy.com/WGN/index.m3u8
+#EXTINF:-1 group-title="United States",US | TLC
+http://fl2.moveonjoy.com/TLC/index.m3u8
+#EXTINF:-1 group-title="United States",US | SYFY
+http://fl5.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 group-title="United States",US | TBS
+http://fl1.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1 group-title="United States",US | TNT
+http://fl5.moveonjoy.com/TNT/index.m3u8
+#EXTINF:-1 group-title="United States",US | PBS
+https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
+#EXTINF:-1 group-title="United States",US | PBS (WNET)
+http://108.14.66.101:5004/auto/v13.1
+#EXTINF:-1 group-title="United States",US | CBS (WKMG-TV)
+http://208.89.99.124:5004/auto/v6.1
+#EXTINF:-1 group-title="United States",US | FOX
+http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 group-title="United States",US | NBC
+http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+#EXTINF:-1 group-title="United States",US | ABC
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
