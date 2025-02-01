@@ -47,8 +47,6 @@ http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 http://atg100.xyz:80/UL33K17/SYC4T9D/1044107
 #EXTINF:-1 group-title="France",FR | LCI
 http://atg100.xyz:80/UL33K17/SYC4T9D/56868
-#EXTINF:-1 group-title="France",FR | France 24
-http://atg100.xyz:80/UL33K17/SYC4T9D/60117
 #EXTINF:-1 group-title="France",FR | Canal+ France
 http://atg100.xyz:80/UL33K17/SYC4T9D/56950
 #EXTINF:-1 group-title="United States",US | Cinemax
@@ -112,8 +110,6 @@ http://fl2.moveonjoy.com/HGTV/index.m3u8
 #EXTINF:-1 group-title="United States",US | National Geographic
 http://fl2.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1 group-title="United States",US | CNN
-http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
-#EXTINF:-1 group-title="United States",US | CNN UHD
 http://atg100.xyz:80/UL33K17/SYC4T9D/71493
 #EXTINF:-1 group-title="United States",US | News Nation
 http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
