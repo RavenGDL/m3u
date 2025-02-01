@@ -31,8 +31,26 @@ http://92.114.85.72:8000/play/a0mw
 http://92.114.85.72:8000/play/a0mr
 #EXTINF:-1 group-title="United Kingdom",UK | BBC World News
 http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
-#EXTINF:-1 group-title="United States",US | Showtime
-http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 group-title="United Kingdom",UK | ITV 1
+http://92.114.85.72:8000/play/a0o2
+#EXTINF:-1 group-title="United Kingdom",UK | ITV 2
+http://92.114.85.72:8000/play/a0nz
+#EXTINF:-1 group-title="United Kingdom",UK | ITV 3
+http://92.114.85.72:8000/play/a0lr
+#EXTINF:-1 group-title="United Kingdom",UK | ITV 4
+http://92.114.85.72:8000/play/a0nu
+#EXTINF:-1 group-title="Latin America",LAT | Latin TNT Novelas
+http://181.78.4.250:8098/play/a04l/index.m3u8
+#EXTINF:-1 group-title="Latin America",LAT | Latin TNT Series
+http://181.78.4.250:8098/play/a06l/index.m3u8
+#EXTINF:-1 group-title="Latin America",LAT | Latin Pasiones
+http://181.78.4.250:8098/play/a07n/index.m3u8
+#EXTINF:-1 group-title="Latin America",LAT | Latin Telemundo
+http://181.78.4.250:8098/play/a05z/index.m3u8
+#EXTINF:-1 group-title="Latin America",LAT | Latin Telenovelas
+http://181.78.4.250:8098/play/a04z/index.m3u8
+#EXTINF:-1 group-title="Spain",ES | Spain laSexta
+http://79.117.39.146:8000/play/a0a8
 #EXTINF:-1 group-title="United States",US | Cinemax
 http://fl5.moveonjoy.com/CINEMAX/index.m3u8
 #EXTINF:-1 group-title="United States",US | Cinemax Moremax
@@ -87,8 +105,6 @@ http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
 #EXTINF:-1 group-title="United States",US | Smithsonian Channel
 http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="United States",US | Motor Trend
-http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 #EXTINF:-1 group-title="United States",US | HGTV
 http://fl2.moveonjoy.com/HGTV/index.m3u8
 #EXTINF:-1 group-title="United States",US | National Geographic
