@@ -13,6 +13,18 @@ http://96.45.207.18:8881/channel/40452a09/index.m3u8?q=1735600584362
 http://96.45.207.18:8881/channel/7a117d94/index.m3u8?q=1735600584362
 #EXTINF:-1 group-title="Canada",CA | TVA
 http://68.233.120.207:9981/stream/channelid/1523198423?profile=pass
+#EXTINF:-1 group-title="Canada",CA | TVA Sport
+http://atg100.xyz:80/UL33K17/SYC4T9D/47402
+#EXTINF:-1 group-title="Canada",CA | TVA Sport 2
+http://atg100.xyz:80/UL33K17/SYC4T9D/106610
+#EXTINF:-1 group-title="Canada",CA | TV5 
+http://atg100.xyz:80/UL33K17/SYC4T9D/106699
+#EXTINF:-1 group-title="Canada",CA | Evasion
+http://atg100.xyz:80/UL33K17/SYC4T9D/30470
+#EXTINF:-1 group-title="Canada",CA | Casa
+http://atg100.xyz:80/UL33K17/SYC4T9D/49846
+#EXTINF:-1 group-title="Canada",CA | Canal Vie
+http://atg100.xyz:80/UL33K17/SYC4T9D/47401
 #EXTINF:-1 group-title="Canada",CA | Travel Escape
 http://206.212.244.26/live/vasconeves/1742766045/40580.ts
 #EXTINF:-1 group-title="Canada",CA | TSN 1
@@ -31,6 +43,14 @@ http://92.114.85.72:8000/play/a0mw
 http://92.114.85.72:8000/play/a0mr
 #EXTINF:-1 group-title="United Kingdom",UK | BBC World News
 http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 group-title="France",FR | M6
+http://atg100.xyz:80/UL33K17/SYC4T9D/1044107
+#EXTINF:-1 group-title="France",FR | LCI
+http://atg100.xyz:80/UL33K17/SYC4T9D/56868
+#EXTINF:-1 group-title="France",FR | France 24
+http://atg100.xyz:80/UL33K17/SYC4T9D/60117
+#EXTINF:-1 group-title="France",FR | Canal+ France
+http://atg100.xyz:80/UL33K17/SYC4T9D/56950
 #EXTINF:-1 group-title="United States",US | Cinemax
 http://fl5.moveonjoy.com/CINEMAX/index.m3u8
 #EXTINF:-1 group-title="United States",US | Cinemax Moremax
@@ -79,6 +99,8 @@ http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 http://fl2.moveonjoy.com/DIY/index.m3u8
 #EXTINF:-1 group-title="United States",US | Investigation Discovery
 http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1 group-title="United States",US | Crime & Investigation
+http://atg100.xyz:80/UL33K17/SYC4T9D/71441
 #EXTINF:-1 group-title="United States",US | Oxygen True Crime
 http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 #EXTINF:-1 group-title="United States",US | Motor Trend
@@ -91,6 +113,8 @@ http://fl2.moveonjoy.com/HGTV/index.m3u8
 http://fl2.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1 group-title="United States",US | CNN
 http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
+#EXTINF:-1 group-title="United States",US | CNN UHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/71493
 #EXTINF:-1 group-title="United States",US | News Nation
 http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:-1 group-title="United States",US | Bloomberg
@@ -107,6 +131,8 @@ http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="United States",US | USA Network
 http://fl2.moveonjoy.com/USA_Network/index.m3u8
+#EXTINF:-1 group-title="United States",US | Paranormal Files
+http://atg100.xyz:80/UL33K17/SYC4T9D/977966
 #EXTINF:-1 group-title="United States",US | TruTV
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="United States",US | VH1
@@ -116,7 +142,7 @@ http://fl2.moveonjoy.com/WGN/index.m3u8
 #EXTINF:-1 group-title="United States",US | TLC
 http://fl2.moveonjoy.com/TLC/index.m3u8
 #EXTINF:-1 group-title="United States",US | SYFY
-http://fl5.moveonjoy.com/SYFY/index.m3u8
+http://atg100.xyz:80/UL33K17/SYC4T9D/71297
 #EXTINF:-1 group-title="United States",US | TBS
 http://fl1.moveonjoy.com/TBS/index.m3u8
 #EXTINF:-1 group-title="United States",US | TNT
