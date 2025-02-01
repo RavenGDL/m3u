@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 group-title="Canada",US | Music Videos VEVO 2000s VPN
+http://atg100.xyz:80/UL33K17/SYC4T9D/1124958
+#EXTINF:-1 group-title="Canada",US | Music Videos VEVO 90s VPN
+http://atg100.xyz:80/UL33K17/SYC4T9D/1124959
+#EXTINF:-1 group-title="Canada",US | Music Videos VEVO 80s VPN
+http://atg100.xyz:80/UL33K17/SYC4T9D/1124960
+#EXTINF:-1 group-title="Canada",US | Music Videos VEVO 70s VPN
+http://atg100.xyz:80/UL33K17/SYC4T9D/1124961
 #EXTINF:-1 group-title="Canada",CA | CTV
 http://206.212.244.26/live/vasconeves/1742766045/40733.ts
 #EXTINF:-1 group-title="Canada",CA | Showcase
@@ -14,7 +22,7 @@ http://96.45.207.18:8881/channel/7a117d94/index.m3u8?q=1735600584362
 #EXTINF:-1 group-title="Canada",CA | TVA
 http://68.233.120.207:9981/stream/channelid/1523198423?profile=pass
 #EXTINF:-1 group-title="Canada",CA | TVA Sport VPN
-http://atg100.xyz:80/UL33K17/SYC4T9D/47402
+http://atg100.xyz:80/UL33K17/SYC4T9D/1032691
 #EXTINF:-1 group-title="Canada",CA | TVA Sport 2 VPN
 http://atg100.xyz:80/UL33K17/SYC4T9D/106610
 #EXTINF:-1 group-title="Canada",CA | TSN 1
@@ -35,8 +43,18 @@ http://92.114.85.72:8000/play/a0mr
 http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 #EXTINF:-1 group-title="France",FR | LCI VPN
 http://atg100.xyz:80/UL33K17/SYC4T9D/56868
+#EXTINF:-1 group-title="France",FR | BFM.TV VPN
+http://atg100.xyz:80/UL33K17/SYC4T9D/57007
 #EXTINF:-1 group-title="France",FR | Canal+ France VPN
 http://atg100.xyz:80/UL33K17/SYC4T9D/56950
+#EXTINF:-1 group-title="France",FR | France TF1 VPN
+http://atg100.xyz:80/UL33K17/SYC4T9D/56945
+#EXTINF:-1 group-title="France",FR | France 2 VPN
+http://atg100.xyz:80/UL33K17/SYC4T9D/56960
+#EXTINF:-1 group-title="France",FR | France 3 VPN
+http://atg100.xyz:80/UL33K17/SYC4T9D/56954
+#EXTINF:-1 group-title="France",FR | France 4 VPN
+http://atg100.xyz:80/UL33K17/SYC4T9D/56961
 #EXTINF:-1 group-title="United States",US | Cinemax
 http://fl5.moveonjoy.com/CINEMAX/index.m3u8
 #EXTINF:-1 group-title="United States",US | Cinemax Moremax
@@ -81,6 +99,8 @@ http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
 http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 #EXTINF:-1 group-title="United States",US | Showtime Next
 http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 group-title="United States",US | James Bond 24/7 VPN
+http://atg100.xyz:80/UL33K17/SYC4T9D/1014391
 #EXTINF:-1 group-title="United States",US | DYI
 http://fl2.moveonjoy.com/DIY/index.m3u8
 #EXTINF:-1 group-title="United States",US | Investigation Discovery
