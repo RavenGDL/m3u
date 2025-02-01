@@ -13,20 +13,10 @@ http://96.45.207.18:8881/channel/40452a09/index.m3u8?q=1735600584362
 http://96.45.207.18:8881/channel/7a117d94/index.m3u8?q=1735600584362
 #EXTINF:-1 group-title="Canada",CA | TVA
 http://68.233.120.207:9981/stream/channelid/1523198423?profile=pass
-#EXTINF:-1 group-title="Canada",CA | TVA Sport X
+#EXTINF:-1 group-title="Canada",CA | TVA Sport VPN
 http://atg100.xyz:80/UL33K17/SYC4T9D/47402
-#EXTINF:-1 group-title="Canada",CA | TVA Sport 2 X
+#EXTINF:-1 group-title="Canada",CA | TVA Sport 2 VPN
 http://atg100.xyz:80/UL33K17/SYC4T9D/106610
-#EXTINF:-1 group-title="Canada",CA | TV5 X
-http://atg100.xyz:80/UL33K17/SYC4T9D/106699
-#EXTINF:-1 group-title="Canada",CA | Evasion X
-http://atg100.xyz:80/UL33K17/SYC4T9D/30470
-#EXTINF:-1 group-title="Canada",CA | Casa X
-http://atg100.xyz:80/UL33K17/SYC4T9D/49846
-#EXTINF:-1 group-title="Canada",CA | Canal Vie X
-http://atg100.xyz:80/UL33K17/SYC4T9D/47401
-#EXTINF:-1 group-title="Canada",CA | Travel Escape
-http://206.212.244.26/live/vasconeves/1742766045/40580.ts
 #EXTINF:-1 group-title="Canada",CA | TSN 1
 http://fl5.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1 group-title="Canada",CA | TSN 2
@@ -43,11 +33,9 @@ http://92.114.85.72:8000/play/a0mw
 http://92.114.85.72:8000/play/a0mr
 #EXTINF:-1 group-title="United Kingdom",UK | BBC World News
 http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
-#EXTINF:-1 group-title="France",FR | M6 - X
-http://atg100.xyz:80/UL33K17/SYC4T9D/1044107
-#EXTINF:-1 group-title="France",FR | LCI - X
+#EXTINF:-1 group-title="France",FR | LCI VPN
 http://atg100.xyz:80/UL33K17/SYC4T9D/56868
-#EXTINF:-1 group-title="France",FR | Canal+ France - X
+#EXTINF:-1 group-title="France",FR | Canal+ France VPN
 http://atg100.xyz:80/UL33K17/SYC4T9D/56950
 #EXTINF:-1 group-title="United States",US | Cinemax
 http://fl5.moveonjoy.com/CINEMAX/index.m3u8
