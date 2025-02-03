@@ -103,6 +103,8 @@ http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="United States",US | AMC Network
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="United States",US | AMC Thrillers VPN
+http://atg100.xyz:80/UL33K17/SYC4T9D/1032498
 #EXTINF:-1 group-title="United States",US | HBO
 http://fl5.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 group-title="United States",US | HBO 2
@@ -149,6 +151,8 @@ http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 http://fl2.moveonjoy.com/USA_Network/index.m3u8
 #EXTINF:-1 group-title="United States",US | TruTV
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="United States",US | The CW VPN
+http://atg100.xyz:80/UL33K17/SYC4T9D/71296
 #EXTINF:-1 group-title="United States",US | VH1
 http://fl2.moveonjoy.com/VH1/index.m3u8
 #EXTINF:-1 group-title="United States",US | WGN
