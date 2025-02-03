@@ -7,20 +7,36 @@ http://atg100.xyz:80/UL33K17/SYC4T9D/1124959
 http://atg100.xyz:80/UL33K17/SYC4T9D/1124960
 #EXTINF:-1 group-title="Canada",US | Music Videos VEVO 70s VPN
 http://atg100.xyz:80/UL33K17/SYC4T9D/1124961
-#EXTINF:-1 group-title="Canada",CA | CTV
-http://206.212.244.26/live/vasconeves/1742766045/40733.ts
-#EXTINF:-1 group-title="Canada",CA | Showcase
-http://206.212.244.26/live/vasconeves/1742766045/40624.ts
-#EXTINF:-1 group-title="Canada",CA | Slice
-http://206.212.244.26/live/vasconeves/1742766045/40622.ts
-#EXTINF:-1 group-title="Canada",CA | History
-http://206.212.244.26/live/vasconeves/1742766045/40693.ts
-#EXTINF:-1 group-title="Canada",CA | YTV
-http://96.45.207.18:8881/channel/40452a09/index.m3u8?q=1735600584362
-#EXTINF:-1 group-title="Canada",CA | ICI RDI
+#EXTINF:-1 group-title="Canada",CA | ICI RDI VPN
 http://96.45.207.18:8881/channel/7a117d94/index.m3u8?q=1735600584362
-#EXTINF:-1 group-title="Canada",CA | TVA
+#EXTINF:-1 group-title="Canada",CA | TVA VPN
 http://68.233.120.207:9981/stream/channelid/1523198423?profile=pass
+#EXTINF:-1 group-title="Canada",CA | CTV VPN
+http://atg100.xyz:80/UL33K17/SYC4T9D/47427
+#EXTINF:-1 group-title="Canada",CA | LCN VPN
+http://atg100.xyz:80/UL33K17/SYC4T9D/47421
+#EXTINF:-1 group-title="Canada",CA | ICI Explora VPN
+http://atg100.xyz:80/UL33K17/SYC4T9D/349300
+#EXTINF:-1 group-title="Canada",CA | Canal V VPN
+http://atg100.xyz:80/UL33K17/SYC4T9D/106670
+#EXTINF:-1 group-title="Canada",CA | Canal Vie VPN
+http://atg100.xyz:80/UL33K17/SYC4T9D/106552
+#EXTINF:-1 group-title="Canada",CA | Canal Z VPN
+http://atg100.xyz:80/UL33K17/SYC4T9D/106553
+#EXTINF:-1 group-title="Canada",CA | Series+ VPN
+http://atg100.xyz:80/UL33K17/SYC4T9D/106594
+#EXTINF:-1 group-title="Canada",CA | Zeste VPN
+http://atg100.xyz:80/UL33K17/SYC4T9D/49847
+#EXTINF:-1 group-title="Canada",CA | ARTV VPN
+http://atg100.xyz:80/UL33K17/SYC4T9D/47437
+#EXTINF:-1 group-title="Canada",CA | Casa VPN
+http://atg100.xyz:80/UL33K17/SYC4T9D/106554
+#EXTINF:-1 group-title="Canada",CA | Noovo VPN
+http://atg100.xyz:80/UL33K17/SYC4T9D/106552
+#EXTINF:-1 group-title="Canada",CA | RDS Sport VPN
+http://atg100.xyz:80/UL33K17/SYC4T9D/106694
+#EXTINF:-1 group-title="Canada",CA | RDS Sport 2 VPN
+http://atg100.xyz:80/UL33K17/SYC4T9D/106695
 #EXTINF:-1 group-title="Canada",CA | TVA Sport VPN
 http://atg100.xyz:80/UL33K17/SYC4T9D/1032691
 #EXTINF:-1 group-title="Canada",CA | TVA Sport 2 VPN
@@ -99,8 +115,6 @@ http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
 http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 #EXTINF:-1 group-title="United States",US | Showtime Next
 http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-#EXTINF:-1 group-title="United States",US | James Bond 24/7 VPN
-http://atg100.xyz:80/UL33K17/SYC4T9D/1014391
 #EXTINF:-1 group-title="United States",US | DYI
 http://fl2.moveonjoy.com/DIY/index.m3u8
 #EXTINF:-1 group-title="United States",US | Investigation Discovery
