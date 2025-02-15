@@ -93,6 +93,10 @@ http://fl5.moveonjoy.com/STARZ_ENCORE/index.m3u8
 http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
 #EXTINF:-1 group-title="United States",US | NHL Network
 http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="United States",US | ESPN+ Live VPN
+http://atg100.xyz:80/UL33K17/SYC4T9D/973127
+#EXTINF:-1 group-title="United States",US | ESPN+ Live 2 VPN
+http://atg100.xyz:80/UL33K17/SYC4T9D/79429
 #EXTINF:-1 group-title="United States",US | CBS Sports
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 group-title="United States",US | Golf Channel
