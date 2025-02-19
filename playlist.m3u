@@ -168,15 +168,13 @@ http://fl2.moveonjoy.com/WGN/index.m3u8
 #EXTINF:-1 group-title="United States",US | PBS VPN
 http://atg100.xyz:80/UL33K17/SYC4T9D/214602
 #EXTINF:-1 group-title="United States",US | TLC VPN
-http://atg100.xyz:80/UL33K17/SYC4T9D/71505 
+http://atg100.xyz:80/UL33K17/SYC4T9D/71505
 #EXTINF:-1 group-title="United States",US | SYFY VPN
 http://atg100.xyz:80/UL33K17/SYC4T9D/71297
 #EXTINF:-1 group-title="United States",US | TBS
 http://fl1.moveonjoy.com/TBS/index.m3u8
 #EXTINF:-1 group-title="United States",US | TNT
 http://fl5.moveonjoy.com/TNT/index.m3u8
-#EXTINF:-1 group-title="United States",US | PBS (WNET)
-http://108.14.66.101:5004/auto/v13.1
 #EXTINF:-1 group-title="United States",US | FOX
 http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 group-title="United States",US | NBC
