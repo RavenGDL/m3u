@@ -81,6 +81,8 @@ http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:-1 group-title="United States",US | Discovery Science
 http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
+#EXTINF:-1 group-title="United States",US | Magellan TV VPN
+http://atg100.xyz:80/UL33K17/SYC4T9D/984841
 #EXTINF:-1 group-title="United States",US | EPIX
 http://fl2.moveonjoy.com/EPIX/index.m3u8
 #EXTINF:-1 group-title="United States",US | EPIX Hits
@@ -89,6 +91,22 @@ http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
 http://fl2.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1 group-title="United States",US | FX Movie
 http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 group-title="United States",US | MGM Drive-in VPN
+http://atg100.xyz:80/UL33K17/SYC4T9D/71384
+#EXTINF:-1 group-title="United States",US | Sony Movie Channel VPN
+http://atg100.xyz:80/UL33K17/SYC4T9D/71415
+#EXTINF:-1 group-title="United States",US | Universal Action VPN
+http://atg100.xyz:80/UL33K17/SYC4T9D/978316
+#EXTINF:-1 group-title="United States",US | Film Rise Sci-Fi VPN
+http://atg100.xyz:80/UL33K17/SYC4T9D/984828
+#EXTINF:-1 group-title="United States",US | Film Rise Horror VPN
+http://atg100.xyz:80/UL33K17/SYC4T9D/984829
+#EXTINF:-1 group-title="United States",US | Film Rise Action VPN
+http://atg100.xyz:80/UL33K17/SYC4T9D/984830
+#EXTINF:-1 group-title="United States",US | Film Rise Mysteries VPN
+http://atg100.xyz:80/UL33K17/SYC4T9D/984833
+#EXTINF:-1 group-title="United States",US | Film Rise Unsolved Mysteries VPN
+http://atg100.xyz:80/UL33K17/SYC4T9D/984834
 #EXTINF:-1 group-title="United States",US | Starz
 http://fl2.moveonjoy.com/STARZ/index.m3u8
 #EXTINF:-1 group-title="United States",US | Starz Edge
@@ -97,6 +115,8 @@ http://fl5.moveonjoy.com/STARZ_EDGE/index.m3u8
 http://fl5.moveonjoy.com/STARZ_ENCORE/index.m3u8
 #EXTINF:-1 group-title="United States",US | Starz Encore Classic
 http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1 group-title="United States",US | Paranormal Files VPN
+http://atg100.xyz:80/UL33K17/SYC4T9D/977966
 #EXTINF:-1 group-title="United States",US | NHL Network
 http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="United States",US | CBS Sports
