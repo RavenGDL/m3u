@@ -11,20 +11,16 @@ http://1tv41.icu:8080/GPierre/GPierre@2202/57968
 http://1tv41.icu:8080/GPierre/GPierre@2202/57442
 #EXTINF:-1 group-title="Canada",CA | Canal Vie
 http://1tv41.icu:8080/GPierre/GPierre@2202/116947
-#EXTINF:-1 group-title="Canada",CA | Canal Z VPN
+#EXTINF:-1 group-title="Canada",CA | Canal Z ---
 http://atg100.xyz:80/UL33K17/SYC4T9D/106553
-#EXTINF:-1 group-title="Canada",CA | Series+ VPN
+#EXTINF:-1 group-title="Canada",CA | Series+ ---
 http://atg100.xyz:80/UL33K17/SYC4T9D/106594
 #EXTINF:-1 group-title="Canada",CA | Zeste
 http://1tv41.icu:8080/GPierre/GPierre@2202/57502
-#EXTINF:-1 group-title="Canada",CA | ARTV VPN
+#EXTINF:-1 group-title="Canada",CA | ARTV ---
 http://atg100.xyz:80/UL33K17/SYC4T9D/47437
-#EXTINF:-1 group-title="Canada",CA | Casa VPN
+#EXTINF:-1 group-title="Canada",CA | Casa ---
 http://atg100.xyz:80/UL33K17/SYC4T9D/106554
-#EXTINF:-1 group-title="Canada",CA | RDS Sport
-http://1tv41.icu:8080/GPierre/GPierre@2202/57491
-#EXTINF:-1 group-title="Canada",CA | RDS Sport 2
-http://1tv41.icu:8080/GPierre/GPierre@2202/57490
 #EXTINF:-1 group-title="Canada",CA | TVA Sport
 http://1tv41.icu:8080/GPierre/GPierre@2202/57498
 #EXTINF:-1 group-title="Canada",CA | TSN 1
@@ -43,13 +39,13 @@ http://92.114.85.72:8000/play/a0mw
 http://92.114.85.72:8000/play/a0mr
 #EXTINF:-1 group-title="United Kingdom",UK | BBC World News
 https://tvpass.org/live/BBCWorldNewsNorthAmerica/hd
-#EXTINF:-1 group-title="France",FR | LCI VPN
+#EXTINF:-1 group-title="France",FR | LCI ---
 http://atg100.xyz:80/UL33K17/SYC4T9D/56868
-#EXTINF:-1 group-title="France",FR | BFM.TV VPN
+#EXTINF:-1 group-title="France",FR | BFM.TV ---
 http://atg100.xyz:80/UL33K17/SYC4T9D/57007
-#EXTINF:-1 group-title="France",FR | Canal+ France VPN
+#EXTINF:-1 group-title="France",FR | Canal+ France ---
 http://atg100.xyz:80/UL33K17/SYC4T9D/56950
-#EXTINF:-1 group-title="France",FR | France TF1 VPN
+#EXTINF:-1 group-title="France",FR | France TF1 ---
 http://atg100.xyz:80/UL33K17/SYC4T9D/56945
 #EXTINF:-1 group-title="France",FR | France 2
 http://1tv41.icu:8080/GPierre/GPierre@2202/160297
@@ -69,7 +65,7 @@ https://tvpass.org/live/MovieMaxEast/hd
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:-1 group-title="United States",US | Discovery Science
 http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
-#EXTINF:-1 group-title="United States",US | Magellan TV VPN
+#EXTINF:-1 group-title="United States",US | Magellan TV ---
 http://atg100.xyz:80/UL33K17/SYC4T9D/984841
 #EXTINF:-1 group-title="United States",US | EPIX
 http://fl2.moveonjoy.com/EPIX/index.m3u8
@@ -87,7 +83,7 @@ http://fl5.moveonjoy.com/STARZ_EDGE/index.m3u8
 http://fl5.moveonjoy.com/STARZ_ENCORE/index.m3u8
 #EXTINF:-1 group-title="United States",US | Starz Encore Classic
 http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
-#EXTINF:-1 group-title="United States",US | Paranormal Files VPN
+#EXTINF:-1 group-title="United States",US | Paranormal Files ---
 http://atg100.xyz:80/UL33K17/SYC4T9D/977966
 #EXTINF:-1 group-title="United States",US | NHL Network
 http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
@@ -97,7 +93,7 @@ http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="United States",US | AMC Network
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 group-title="United States",US | AMC Thrillers VPN
+#EXTINF:-1 group-title="United States",US | AMC Thrillers ---
 http://atg100.xyz:80/UL33K17/SYC4T9D/1032498
 #EXTINF:-1 group-title="United States",US | HBO
 http://fl5.moveonjoy.com/HBO/index.m3u8
@@ -141,7 +137,7 @@ http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
 http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
 #EXTINF:-1 group-title="United States",US | Bloomberg
 http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
-#EXTINF:-1 group-title="United States",US | Paramount Network VPN
+#EXTINF:-1 group-title="United States",US | Paramount Network ---
 http://atg100.xyz:80/UL33K17/SYC4T9D/71339
 #EXTINF:-1 group-title="United States",US | MTV
 https://fl2.moveonjoy.com/MTV/index.m3u8
@@ -151,7 +147,7 @@ http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="United States",US | USA Network
 http://fl2.moveonjoy.com/USA_Network/index.m3u8
-#EXTINF:-1 group-title="United States",US | The CW VPN
+#EXTINF:-1 group-title="United States",US | The CW ---
 http://atg100.xyz:80/UL33K17/SYC4T9D/71296
 #EXTINF:-1 group-title="United States",US | VH1
 http://fl2.moveonjoy.com/VH1/index.m3u8
