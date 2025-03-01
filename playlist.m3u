@@ -53,8 +53,20 @@ http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/106926
 http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/106902
 #EXTINF:-1 group-title="France",FR | Canal+ France
 http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/106909
+#EXTINF:-1 group-title="France",FR | Canal+ France-
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/425573
+#EXTINF:-1 group-title="France",FR | Canal+ France--
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/207152
 #EXTINF:-1 group-title="France",FR | Canal+ Series France
 http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/106914
+#EXTINF:-1 group-title="France",FR | Canal+ Cinema
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/106908
+#EXTINF:-1 group-title="France",FR | Canal+ Box Office
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/569466
+#EXTINF:-1 group-title="France",FR | Cine+ Frisson
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/106918
+#EXTINF:-1 group-title="France",FR | Cine+ Premier
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/106919
 #EXTINF:-1 group-title="France",FR | M6 France
 http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/106954
 #EXTINF:-1 group-title="France",FR | France TF1
