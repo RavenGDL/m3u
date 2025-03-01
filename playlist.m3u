@@ -1,46 +1,32 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canada",US | Music Videos VEVO 2000s VPN
-http://atg100.xyz:80/UL33K17/SYC4T9D/1124958
-#EXTINF:-1 group-title="Canada",US | Music Videos VEVO 90s VPN
-http://atg100.xyz:80/UL33K17/SYC4T9D/1124959
-#EXTINF:-1 group-title="Canada",US | Music Videos VEVO 80s VPN
-http://atg100.xyz:80/UL33K17/SYC4T9D/1124960
-#EXTINF:-1 group-title="Canada",US | Music Videos VEVO 70s VPN
-http://atg100.xyz:80/UL33K17/SYC4T9D/1124961
-#EXTINF:-1 group-title="Canada",CA | ICI RDI VPN
-http://atg100.xyz:80/UL33K17/SYC4T9D/47416
-#EXTINF:-1 group-title="Canada",CA | TVA VPN
-http://68.233.120.207:9981/stream/channelid/1523198423?profile=pass
-#EXTINF:-1 group-title="Canada",CA | CTV VPN
-http://atg100.xyz:80/UL33K17/SYC4T9D/47427
-#EXTINF:-1 group-title="Canada",CA | LCN VPN
-http://atg100.xyz:80/UL33K17/SYC4T9D/47421
-#EXTINF:-1 group-title="Canada",CA | ICI Explora VPN
-http://atg100.xyz:80/UL33K17/SYC4T9D/349300
-#EXTINF:-1 group-title="Canada",CA | Investigation VPN
-http://atg100.xyz:80/UL33K17/SYC4T9D/170335
-#EXTINF:-1 group-title="Canada",CA | Lifetime VPN
-http://atg100.xyz:80/UL33K17/SYC4T9D/42938
-#EXTINF:-1 group-title="Canada",CA | Canal Vie VPN
-http://atg100.xyz:80/UL33K17/SYC4T9D/106552
+#EXTINF:-1 group-title="Canada",CA | ICI RDI
+http://1tv41.icu:8080/GPierre/GPierre@2202/126723
+#EXTINF:-1 group-title="Canada",CA | TVA 
+http://1tv41.icu:8080/GPierre/GPierre@2202/57497
+#EXTINF:-1 group-title="Canada",CA | CTV 
+http://1tv41.icu:8080/GPierre/GPierre@2202/47234
+#EXTINF:-1 group-title="Canada",CA | LCN
+http://1tv41.icu:8080/GPierre/GPierre@2202/57968
+#EXTINF:-1 group-title="Canada",CA | Investigation
+http://1tv41.icu:8080/GPierre/GPierre@2202/57442
+#EXTINF:-1 group-title="Canada",CA | Canal Vie
+http://1tv41.icu:8080/GPierre/GPierre@2202/116947
 #EXTINF:-1 group-title="Canada",CA | Canal Z VPN
 http://atg100.xyz:80/UL33K17/SYC4T9D/106553
 #EXTINF:-1 group-title="Canada",CA | Series+ VPN
 http://atg100.xyz:80/UL33K17/SYC4T9D/106594
-#EXTINF:-1 group-title="Canada",CA | Zeste VPN
-http://atg100.xyz:80/UL33K17/SYC4T9D/49847
+#EXTINF:-1 group-title="Canada",CA | Zeste
+http://1tv41.icu:8080/GPierre/GPierre@2202/57502
 #EXTINF:-1 group-title="Canada",CA | ARTV VPN
 http://atg100.xyz:80/UL33K17/SYC4T9D/47437
 #EXTINF:-1 group-title="Canada",CA | Casa VPN
 http://atg100.xyz:80/UL33K17/SYC4T9D/106554
-#EXTINF:-1 group-title="Canada",CA | RDS Sport VPN
-http://atg100.xyz:80/UL33K17/SYC4T9D/106694
-#EXTINF:-1 group-title="Canada",CA | RDS Sport 2 VPN
-http://atg100.xyz:80/UL33K17/SYC4T9D/106695
-#EXTINF:-1 group-title="Canada",CA | TVA Sport VPN
-http://atg100.xyz:80/UL33K17/SYC4T9D/1032691
-#EXTINF:-1 group-title="Canada",CA | TVA Sport 2 VPN
-http://atg100.xyz:80/UL33K17/SYC4T9D/106610
+#EXTINF:-1 group-title="Canada",CA | RDS Sport
+http://1tv41.icu:8080/GPierre/GPierre@2202/57491
+#EXTINF:-1 group-title="Canada",CA | RDS Sport 2
+http://1tv41.icu:8080/GPierre/GPierre@2202/57490
+#EXTINF:-1 group-title="Canada",CA | TVA Sport
+http://1tv41.icu:8080/GPierre/GPierre@2202/57498
 #EXTINF:-1 group-title="Canada",CA | TSN 1
 http://fl5.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1 group-title="Canada",CA | TSN 2
@@ -65,12 +51,14 @@ http://atg100.xyz:80/UL33K17/SYC4T9D/57007
 http://atg100.xyz:80/UL33K17/SYC4T9D/56950
 #EXTINF:-1 group-title="France",FR | France TF1 VPN
 http://atg100.xyz:80/UL33K17/SYC4T9D/56945
-#EXTINF:-1 group-title="France",FR | France 2 VPN
-http://atg100.xyz:80/UL33K17/SYC4T9D/56960
-#EXTINF:-1 group-title="France",FR | France 3 VPN
-http://atg100.xyz:80/UL33K17/SYC4T9D/56954
-#EXTINF:-1 group-title="France",FR | France 4 VPN
-http://atg100.xyz:80/UL33K17/SYC4T9D/56961
+#EXTINF:-1 group-title="France",FR | France 2
+http://1tv41.icu:8080/GPierre/GPierre@2202/160297
+#EXTINF:-1 group-title="France",FR | France 3
+http://1tv41.icu:8080/GPierre/GPierre@2202/160298
+#EXTINF:-1 group-title="France",FR | France 4
+http://1tv41.icu:8080/GPierre/GPierre@2202/160299
+#EXTINF:-1 group-title="France",FR | France 5
+http://1tv41.icu:8080/GPierre/GPierre@2202/160300
 #EXTINF:-1 group-title="United States",US | Cinemax
 http://fl5.moveonjoy.com/CINEMAX/index.m3u8
 #EXTINF:-1 group-title="United States",US | Cinemax Moremax
