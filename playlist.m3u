@@ -24,8 +24,6 @@ http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/412867
 #EXTINF:-1 group-title="Canada",CA | Casa
 http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/412892
 #EXTINF:-1 group-title="Canada",CA | TVA Sport
-http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/498806
-#EXTINF:-1 group-title="Canada",CA | TVA Sport- 
 http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/412907
 #EXTINF:-1 group-title="Canada",CA | TVA Sport 2
 http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/1044084
@@ -45,6 +43,8 @@ http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/1159421
 http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/1159420
 #EXTINF:-1 group-title="United Kingdom",UK | BBC World News
 http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/498790
+#EXTINF:-1 group-title="United Kingdom",UK | Sky Sports Tennis
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/706975
 #EXTINF:-1 group-title="France",FR | LCI
 http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/106952
 #EXTINF:-1 group-title="France",FR | BFM.TV
@@ -101,8 +101,6 @@ http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325950
 http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/609423
 #EXTINF:-1 group-title="United States",US | NHL Network
 http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/604331
-#EXTINF:-1 group-title="United States",US | NHL Network-
-http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/604332
 #EXTINF:-1 group-title="United States",US | Golf Channel
 http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325003
 #EXTINF:-1 group-title="United States",US | AMC Network
@@ -151,22 +149,16 @@ http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/856507
 http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/324963
 #EXTINF:-1 group-title="United States",US | Bloomberg
 http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325904
-#EXTINF:-1 group-title="United States",US | FOX News
-http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/324923
 #EXTINF:-1 group-title="United States",US | Paramount Network
 http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325806
 #EXTINF:-1 group-title="United States",US | MTV
 http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325793
 #EXTINF:-1 group-title="United States",US | Tennis Channel
 http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/324994
-#EXTINF:-1 group-title="United States",US | Tennis Channel-
-http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325092
 #EXTINF:-1 group-title="United States",US | Accuweather
 http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325910
 #EXTINF:-1 group-title="United States",US | USA Network
 http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/610437
-#EXTINF:-1 group-title="United States",US | The CW
-http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/429641
 #EXTINF:-1 group-title="United States",US | VH1
 http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/718277
 #EXTINF:-1 group-title="United States",US | WGN
