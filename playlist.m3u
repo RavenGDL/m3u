@@ -1,171 +1,185 @@
 #EXTM3U
 #EXTINF:-1 group-title="Canada",CA | ICI RDI
-http://1tv41.icu:8080/GPierre/GPierre@2202/126723
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/412895
 #EXTINF:-1 group-title="Canada",CA | TVA 
-http://1tv41.icu:8080/GPierre/GPierre@2202/57497
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/412909
 #EXTINF:-1 group-title="Canada",CA | CTV 
-http://1tv41.icu:8080/GPierre/GPierre@2202/47234
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/498629
 #EXTINF:-1 group-title="Canada",CA | LCN
-http://1tv41.icu:8080/GPierre/GPierre@2202/57968
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/498710
 #EXTINF:-1 group-title="Canada",CA | Investigation
-http://1tv41.icu:8080/GPierre/GPierre@2202/57442
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/412872
 #EXTINF:-1 group-title="Canada",CA | Canal Vie
-http://1tv41.icu:8080/GPierre/GPierre@2202/116947
-#EXTINF:-1 group-title="Canada",CA | Canal Z ---
-http://atg100.xyz:80/UL33K17/SYC4T9D/106553
-#EXTINF:-1 group-title="Canada",CA | Series+ ---
-http://atg100.xyz:80/UL33K17/SYC4T9D/106594
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/412950
+#EXTINF:-1 group-title="Canada",CA | Canal Z
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/412857
+#EXTINF:-1 group-title="Canada",CA | Series+
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/412897
+#EXTINF:-1 group-title="Canada",CA | Cime & Investigation
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/498763
 #EXTINF:-1 group-title="Canada",CA | Zeste
-http://1tv41.icu:8080/GPierre/GPierre@2202/57502
-#EXTINF:-1 group-title="Canada",CA | ARTV ---
-http://atg100.xyz:80/UL33K17/SYC4T9D/47437
-#EXTINF:-1 group-title="Canada",CA | Casa ---
-http://atg100.xyz:80/UL33K17/SYC4T9D/106554
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/412865
+#EXTINF:-1 group-title="Canada",CA | Explora
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/412867
+#EXTINF:-1 group-title="Canada",CA | Casa
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/412892
 #EXTINF:-1 group-title="Canada",CA | TVA Sport
-http://1tv41.icu:8080/GPierre/GPierre@2202/57498
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/498806
+#EXTINF:-1 group-title="Canada",CA | TVA Sport 2
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/1044084
 #EXTINF:-1 group-title="Canada",CA | TSN 1
 http://fl5.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1 group-title="Canada",CA | TSN 2
-http://fl5.moveonjoy.com/TSN_2/index.m3u8
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/434023
 #EXTINF:-1 group-title="Canada",CA | TSN 3
-http://fl5.moveonjoy.com/TSN_3/index.m3u8
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/434024
 #EXTINF:-1 group-title="Canada",CA | TSN 4
-http://fl5.moveonjoy.com/TSN_4/index.m3u8
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/434025
 #EXTINF:-1 group-title="Canada",CA | TSN 5
-http://fl5.moveonjoy.com/TSN_5/index.m3u8
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/434026
 #EXTINF:-1 group-title="United Kingdom",UK | BBC One
-http://92.114.85.72:8000/play/a0mw
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/1159421
 #EXTINF:-1 group-title="United Kingdom",UK | BBC Two
-http://92.114.85.72:8000/play/a0mr
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/1159420
 #EXTINF:-1 group-title="United Kingdom",UK | BBC World News
-https://tvpass.org/live/BBCWorldNewsNorthAmerica/hd
-#EXTINF:-1 group-title="France",FR | LCI ---
-http://atg100.xyz:80/UL33K17/SYC4T9D/56950
-#EXTINF:-1 group-title="France",FR | BFM.TV ---
-http://atg100.xyz:80/UL33K17/SYC4T9D/56950
-#EXTINF:-1 group-title="France",FR | Canal+ France ---
-http://atg100.xyz:80/UL33K17/SYC4T9D/56950
-#EXTINF:-1 group-title="France",FR | France TF1 ---
-http://atg100.xyz:80/UL33K17/SYC4T9D/56945
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/498790
+#EXTINF:-1 group-title="France",FR | LCI
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/106952
+#EXTINF:-1 group-title="France",FR | BFM.TV
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/106926
+#EXTINF:-1 group-title="France",FR | France 24
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/106902
+#EXTINF:-1 group-title="France",FR | Canal+ France
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/106909
+#EXTINF:-1 group-title="France",FR | Canal+ Series France
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/106914
+#EXTINF:-1 group-title="France",FR | M6 France
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/106954
+#EXTINF:-1 group-title="France",FR | France TF1
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/106975
+#EXTINF:-1 group-title="France",FR | France TF1 Series Films
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/106976
 #EXTINF:-1 group-title="France",FR | France 2
-http://1tv41.icu:8080/GPierre/GPierre@2202/160297
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/106901
 #EXTINF:-1 group-title="France",FR | France 3
-http://1tv41.icu:8080/GPierre/GPierre@2202/160298
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/106903
 #EXTINF:-1 group-title="France",FR | France 4
-http://1tv41.icu:8080/GPierre/GPierre@2202/160299
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/106904
 #EXTINF:-1 group-title="France",FR | France 5
-http://1tv41.icu:8080/GPierre/GPierre@2202/160300
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/106905
 #EXTINF:-1 group-title="United States",US | Cinemax
-http://fl5.moveonjoy.com/CINEMAX/index.m3u8
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325981
+#EXTINF:-1 group-title="United States",US | Cinemax East
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325982
 #EXTINF:-1 group-title="United States",US | Cinemax Moremax
-http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325970
 #EXTINF:-1 group-title="United States",US | Moviemax
-https://tvpass.org/live/MovieMaxEast/hd
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325969
 #EXTINF:-1 group-title="United States",US | Discovery Channel
-http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325775
 #EXTINF:-1 group-title="United States",US | Discovery Science
-http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
-#EXTINF:-1 group-title="United States",US | Magellan TV ---
-http://atg100.xyz:80/UL33K17/SYC4T9D/984841
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325774
 #EXTINF:-1 group-title="United States",US | EPIX
-http://fl2.moveonjoy.com/EPIX/index.m3u8
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325977
+#EXTINF:-1 group-title="United States",US | EPIX 2
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325985
 #EXTINF:-1 group-title="United States",US | EPIX Hits
-http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325986
 #EXTINF:-1 group-title="United States",US | FX
-http://fl2.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1 group-title="United States",US | FX Movie
-http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325784
+#EXTINF:-1 group-title="United States",US | FX Movies
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325783
 #EXTINF:-1 group-title="United States",US | Starz
-http://fl2.moveonjoy.com/STARZ/index.m3u8
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325947
 #EXTINF:-1 group-title="United States",US | Starz Edge
-http://fl5.moveonjoy.com/STARZ_EDGE/index.m3u8
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325956
 #EXTINF:-1 group-title="United States",US | Starz Encore
-http://fl5.moveonjoy.com/STARZ_ENCORE/index.m3u8
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325950
 #EXTINF:-1 group-title="United States",US | Starz Encore Classic
-http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
-#EXTINF:-1 group-title="United States",US | Paranormal Files ---
-http://atg100.xyz:80/UL33K17/SYC4T9D/977966
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/609423
 #EXTINF:-1 group-title="United States",US | NHL Network
-http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
-#EXTINF:-1 group-title="United States",US | CBS Sports
-http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/604331
 #EXTINF:-1 group-title="United States",US | Golf Channel
-http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325003
 #EXTINF:-1 group-title="United States",US | AMC Network
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 group-title="United States",US | AMC Thrillers ---
-http://atg100.xyz:80/UL33K17/SYC4T9D/1032498
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325778
+#EXTINF:-1 group-title="United States",US | AMC Plus
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325934
+#EXTINF:-1 group-title="United States",US | AMC Thrillers
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/436157
 #EXTINF:-1 group-title="United States",US | HBO
-http://fl5.moveonjoy.com/HBO/index.m3u8
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325973
 #EXTINF:-1 group-title="United States",US | HBO 2
-http://fl5.moveonjoy.com/HBO_2/index.m3u8
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325976
 #EXTINF:-1 group-title="United States",US | HBO Zone
-https://tvpass.org/live/HBOZoneEast/hd
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325971
 #EXTINF:-1 group-title="United States",US | Showtime
-http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325964
 #EXTINF:-1 group-title="United States",US | Showtime 2
-http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325966
 #EXTINF:-1 group-title="United States",US | Showtime Extreme
-http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325991
 #EXTINF:-1 group-title="United States",US | Showtime Next
-http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325997
 #EXTINF:-1 group-title="United States",US | Showtime East
-https://tvpass.org/live/ShowtimeEast/hd
-#EXTINF:-1 group-title="United States",US | Showtime East 2
-https://tvpass.org/live/Showtime2East/hd
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325965
+#EXTINF:-1 group-title="United States",US | Showtime West
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325998
 #EXTINF:-1 group-title="United States",US | Investigation Discovery
-https://tvpass.org/live/InvestigationDiscoveryEast/hd
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325865
 #EXTINF:-1 group-title="United States",US | Crime & Investigation
-https://tvpass.org/live/CrimePlusInvestigation/hd
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325832
 #EXTINF:-1 group-title="United States",US | Oxygen True Crime
-http://fl2.moveonjoy.com/OXYGEN/index.m3u8
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325812
 #EXTINF:-1 group-title="United States",US | A&E
-https://tvpass.org/live/AEEast/hd
-#EXTINF:-1 group-title="United States",US | Motor Trend
-http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325830
 #EXTINF:-1 group-title="United States",US | Smithsonian Channel
-http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325877
 #EXTINF:-1 group-title="United States",US | HGTV
-http://fl2.moveonjoy.com/HGTV/index.m3u8
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325791
 #EXTINF:-1 group-title="United States",US | National Geographic
-https://tvpass.org/live/NationalGeographicEast/hd
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/414080
 #EXTINF:-1 group-title="United States",US | History Channel
-https://tvpass.org/live/HistoryEast/hd
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325777
 #EXTINF:-1 group-title="United States",US | News Nation
-http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/856507
 #EXTINF:-1 group-title="United States",US | CNN
-http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/324963
 #EXTINF:-1 group-title="United States",US | Bloomberg
-http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
-#EXTINF:-1 group-title="United States",US | Paramount Network ---
-http://atg100.xyz:80/UL33K17/SYC4T9D/71339
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325904
+#EXTINF:-1 group-title="United States",US | FOX News
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/324923
+#EXTINF:-1 group-title="United States",US | Paramount Network
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325806
 #EXTINF:-1 group-title="United States",US | MTV
-https://fl2.moveonjoy.com/MTV/index.m3u8
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325793
 #EXTINF:-1 group-title="United States",US | Tennis Channel
-http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="United States",US | Weather Network
-http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/324994
+#EXTINF:-1 group-title="United States",US | Accuweather
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325910
 #EXTINF:-1 group-title="United States",US | USA Network
-http://fl2.moveonjoy.com/USA_Network/index.m3u8
-#EXTINF:-1 group-title="United States",US | The CW ---
-http://atg100.xyz:80/UL33K17/SYC4T9D/71296
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/610437
+#EXTINF:-1 group-title="United States",US | The CW
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/429641
 #EXTINF:-1 group-title="United States",US | VH1
-http://fl2.moveonjoy.com/VH1/index.m3u8
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/718277
 #EXTINF:-1 group-title="United States",US | WGN
-http://fl2.moveonjoy.com/WGN/index.m3u8
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325930
 #EXTINF:-1 group-title="United States",US | PBS
-https://tvpass.org/live/WNET/hd
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/510968
 #EXTINF:-1 group-title="United States",US | TLC
-https://tvpass.org/live/TLCEast/hd
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325801
 #EXTINF:-1 group-title="United States",US | SYFY
-https://tvpass.org/live/SyfyEast/hd
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325804
 #EXTINF:-1 group-title="United States",US | TBS
-http://fl1.moveonjoy.com/TBS/index.m3u8
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325803
 #EXTINF:-1 group-title="United States",US | TNT
-http://fl5.moveonjoy.com/TNT/index.m3u8
-#EXTINF:-1 group-title="United States",US | FOX
-http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325799
+#EXTINF:-1 group-title="United States",US | CNBC
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/324929
+#EXTINF:-1 group-title="United States",US | MSNBC
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/324922
 #EXTINF:-1 group-title="United States",US | NBC
-http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/411650
 #EXTINF:-1 group-title="United States",US | ABC
-http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/324915
