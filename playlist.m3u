@@ -19,8 +19,6 @@ http://atg100.xyz:80/UL33K17/SYC4T9D/47421
 http://atg100.xyz:80/UL33K17/SYC4T9D/349300
 #EXTINF:-1 group-title="Canada",CA | Investigation VPN
 http://atg100.xyz:80/UL33K17/SYC4T9D/170335
-#EXTINF:-1 group-title="Canada",CA | Crime & Investigation VPN
-http://atg100.xyz:80/UL33K17/SYC4T9D/796360
 #EXTINF:-1 group-title="Canada",CA | Lifetime VPN
 http://atg100.xyz:80/UL33K17/SYC4T9D/42938
 #EXTINF:-1 group-title="Canada",CA | Canal Vie VPN
@@ -57,8 +55,8 @@ http://fl5.moveonjoy.com/TSN_5/index.m3u8
 http://92.114.85.72:8000/play/a0mw
 #EXTINF:-1 group-title="United Kingdom",UK | BBC Two
 http://92.114.85.72:8000/play/a0mr
-#EXTINF:-1 group-title="United Kingdom",UK | BBC World News VPN
-http://atg100.xyz:80/UL33K17/SYC4T9D/71484
+#EXTINF:-1 group-title="United Kingdom",UK | BBC World News
+https://tvpass.org/live/BBCWorldNewsNorthAmerica/hd
 #EXTINF:-1 group-title="France",FR | LCI VPN
 http://atg100.xyz:80/UL33K17/SYC4T9D/56868
 #EXTINF:-1 group-title="France",FR | BFM.TV VPN
@@ -77,6 +75,8 @@ http://atg100.xyz:80/UL33K17/SYC4T9D/56961
 http://fl5.moveonjoy.com/CINEMAX/index.m3u8
 #EXTINF:-1 group-title="United States",US | Cinemax Moremax
 http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+#EXTINF:-1 group-title="United States",US | Moviemax
+https://tvpass.org/live/MovieMaxEast/hd
 #EXTINF:-1 group-title="United States",US | Discovery Channel
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:-1 group-title="United States",US | Discovery Science
@@ -91,12 +91,6 @@ http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
 http://fl2.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1 group-title="United States",US | FX Movie
 http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:-1 group-title="United States",US | MGM Drive-in VPN
-http://atg100.xyz:80/UL33K17/SYC4T9D/71384
-#EXTINF:-1 group-title="United States",US | Sony Movie Channel VPN
-http://atg100.xyz:80/UL33K17/SYC4T9D/71415
-#EXTINF:-1 group-title="United States",US | Universal Action VPN
-http://atg100.xyz:80/UL33K17/SYC4T9D/978316
 #EXTINF:-1 group-title="United States",US | Starz
 http://fl2.moveonjoy.com/STARZ/index.m3u8
 #EXTINF:-1 group-title="United States",US | Starz Edge
@@ -121,8 +115,8 @@ http://atg100.xyz:80/UL33K17/SYC4T9D/1032498
 http://fl5.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 group-title="United States",US | HBO 2
 http://fl5.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1 group-title="United States",US | HBO Zone VPN
-http://atg100.xyz:80/UL33K17/SYC4T9D/83135
+#EXTINF:-1 group-title="United States",US | HBO Zone
+https://tvpass.org/live/HBOZoneEast/hd
 #EXTINF:-1 group-title="United States",US | Showtime
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:-1 group-title="United States",US | Showtime 2
@@ -131,18 +125,18 @@ http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
 http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 #EXTINF:-1 group-title="United States",US | Showtime Next
 http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-#EXTINF:-1 group-title="United States",US | Showtime East VPN
-http://atg100.xyz:80/UL33K17/SYC4T9D/71891
-#EXTINF:-1 group-title="United States",US | Showtime West VPN
-http://atg100.xyz:80/UL33K17/SYC4T9D/71892
+#EXTINF:-1 group-title="United States",US | Showtime East
+https://tvpass.org/live/ShowtimeEast/hd
+#EXTINF:-1 group-title="United States",US | Showtime East 2
+https://tvpass.org/live/Showtime2East/hd
 #EXTINF:-1 group-title="United States",US | Investigation Discovery
-http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+https://tvpass.org/live/InvestigationDiscoveryEast/hd
+#EXTINF:-1 group-title="United States",US | Crime & Investigation
+https://tvpass.org/live/CrimePlusInvestigation/hd
 #EXTINF:-1 group-title="United States",US | Oxygen True Crime
 http://fl2.moveonjoy.com/OXYGEN/index.m3u8
-#EXTINF:-1 group-title="United States",US | A&E VPN
-http://atg100.xyz:80/UL33K17/SYC4T9D/71313
-#EXTINF:-1 group-title="United States",US | E! VPN
-http://atg100.xyz:80/UL33K17/SYC4T9D/71350
+#EXTINF:-1 group-title="United States",US | A&E
+https://tvpass.org/live/AEEast/hd
 #EXTINF:-1 group-title="United States",US | Motor Trend
 http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
 #EXTINF:-1 group-title="United States",US | Smithsonian Channel
@@ -150,9 +144,9 @@ http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="United States",US | HGTV
 http://fl2.moveonjoy.com/HGTV/index.m3u8
 #EXTINF:-1 group-title="United States",US | National Geographic
-http://fl2.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:-1 group-title="United States",US | History Channel VPN
-http://atg100.xyz:80/UL33K17/SYC4T9D/71435
+https://tvpass.org/live/NationalGeographicEast/hd
+#EXTINF:-1 group-title="United States",US | History Channel
+https://tvpass.org/live/HistoryEast/hd
 #EXTINF:-1 group-title="United States",US | News Nation
 http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:-1 group-title="United States",US | CNN
@@ -175,12 +169,12 @@ http://atg100.xyz:80/UL33K17/SYC4T9D/71296
 http://fl2.moveonjoy.com/VH1/index.m3u8
 #EXTINF:-1 group-title="United States",US | WGN
 http://fl2.moveonjoy.com/WGN/index.m3u8
-#EXTINF:-1 group-title="United States",US | PBS VPN
-http://atg100.xyz:80/UL33K17/SYC4T9D/214602
-#EXTINF:-1 group-title="United States",US | TLC VPN
-http://atg100.xyz:80/UL33K17/SYC4T9D/71505
-#EXTINF:-1 group-title="United States",US | SYFY VPN
-http://atg100.xyz:80/UL33K17/SYC4T9D/71297
+#EXTINF:-1 group-title="United States",US | PBS
+https://tvpass.org/live/WNET/hd
+#EXTINF:-1 group-title="United States",US | TLC
+https://tvpass.org/live/TLCEast/hd
+#EXTINF:-1 group-title="United States",US | SYFY
+https://tvpass.org/live/SyfyEast/hd
 #EXTINF:-1 group-title="United States",US | TBS
 http://fl1.moveonjoy.com/TBS/index.m3u8
 #EXTINF:-1 group-title="United States",US | TNT
