@@ -25,12 +25,21 @@ http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/412867
 http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/412892
 #EXTINF:-1 group-title="Canada",CA | TVA Sport
 http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/412907
+http://cf.hi-max.me:80/4088b368d0/207b6b72ee/498806
 #EXTINF:-1 group-title="Canada",CA | TVA Sport 2
 http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/1044084
 #EXTINF:-1 group-title="Canada",CA | RDS Sport
 http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/498683
 #EXTINF:-1 group-title="Canada",CA | RDS Sport 2
 http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/498682
+#EXTINF:-1 group-title="Canada",CA | Sportsnet 360
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/1239006
+#EXTINF:-1 group-title="Canada",CA | Sportsnet East
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/1238999
+#EXTINF:-1 group-title="Canada",CA | Sportsnet One
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/1238991
+#EXTINF:-1 group-title="Canada",CA | Sportsnet Ontario
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/1238983
 #EXTINF:-1 group-title="Canada",CA | TSN 1
 http://fl5.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1 group-title="Canada",CA | TSN 2
@@ -110,7 +119,7 @@ http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325956
 #EXTINF:-1 group-title="United States",US | Starz Encore
 http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325950
 #EXTINF:-1 group-title="United States",US | Starz Encore Classic
-http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/609423
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325953
 #EXTINF:-1 group-title="United States",US | NHL Network
 http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/604331
 #EXTINF:-1 group-title="United States",US | Golf Channel
