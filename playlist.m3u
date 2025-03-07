@@ -50,9 +50,9 @@ http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/434025
 #EXTINF:-1 group-title="Canada",CA | TSN 5
 http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/434026
 #EXTINF:-1 group-title="United Kingdom",UK | BBC One
-http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/1159421
+http://cf.hi-max.me:80/4088b368d0/207b6b72ee/162120
 #EXTINF:-1 group-title="United Kingdom",UK | BBC Two
-http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/1159420
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/162121
 #EXTINF:-1 group-title="United Kingdom",UK | BBC World News
 http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/498790
 #EXTINF:-1 group-title="United Kingdom",UK | Sky Sports Tennis
@@ -166,9 +166,11 @@ http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325777
 #EXTINF:-1 group-title="United States",US | News Nation
 http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/856507
 #EXTINF:-1 group-title="United States",US | CNN
-http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/324963
-#EXTINF:-1 group-title="United States",US | Bloomberg
-http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325904
+http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/498814
+#EXTINF:-1 group-title="United States",US | Bloomberg 4K
+http://cf.hi-max.me:80/4088b368d0/207b6b72ee/484449
+#EXTINF:-1 group-title="United States",US | Fashion TV 4K
+http://cf.hi-max.me:80/4088b368d0/207b6b72ee/484464
 #EXTINF:-1 group-title="United States",US | Paramount Network
 http://cf.hi-max.me:80/e112ebd778/56bf75a1e8/325806
 #EXTINF:-1 group-title="United States",US | MTV
